@@ -1,3 +1,3 @@
 # test-repo
 
-This is a git tutorial example. jadkfjakdfj
+This is a test file
